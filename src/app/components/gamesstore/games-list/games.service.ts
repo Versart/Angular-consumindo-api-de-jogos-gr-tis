@@ -12,7 +12,7 @@ export class GamesService {
     method: 'GET',
     url: 'https://free-to-play-games-database.p.rapidapi.com/api/games',
     headers: {
-      'X-RapidAPI-Key': 'ddc7b7c3c9mshfaee9e9fd1779f7p1f1774jsne29bfee5a76d',
+      'X-RapidAPI-Key': 'SIGN-UP-FOR-KEY',
       'X-RapidAPI-Host': 'free-to-play-games-database.p.rapidapi.com'
     }
   }
